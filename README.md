@@ -3,7 +3,7 @@ Hi! I'm Van Hoc
 
 🌱 I’m currently learning SQL, Python, R, Power BI
 
-👨‍💻 All of my projects are available at https://github.com/leevanhoc
+👨‍💻 All of my projects are available at https://leevanhoc.github.io/Portfolio/
 
 📫 How to reach me hocau101@gmail.com
 
